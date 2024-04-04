@@ -15,7 +15,7 @@ rl.question('점수를 입력하세요. : ',function(score){
         }
     }
     else{
-        if(socre >= 0 && score < 60){
+        if(score >= 0 && score < 60){
             console.log('불합격입니다.');
         }
         else{
