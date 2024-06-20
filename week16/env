@@ -1,0 +1,2 @@
+DB_URL="mongodb+srv://admin:1111@cluster0.hmvwkf5.mongodb.net/?retryWrites=true&w=majority"
+PORT = 8080
